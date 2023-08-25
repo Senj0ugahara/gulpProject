@@ -23,7 +23,7 @@ const paths = {
     dest: `${distFloder}`
   },
   styles: {
-    src: [`${srcFloder}/scss/**/*.scss`, `${srcFloder}/scss/**/*.sass`],
+    src: [`${srcFloder}scss/**/*.scss`, `${srcFloder}scss/**/*.sass`],
     dest: `${distFloder}styles/`
   },
   scripts: {
